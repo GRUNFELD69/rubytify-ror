@@ -1,0 +1,3 @@
+current directory: /home/luis/ruby/rubytify-ror/vendor/bundle/gems/mimemagic-0.3.10/ext/mimemagic
+/home/luis/.rbenv/versions/2.6.2/bin/ruby -rrubygems /home/luis/ruby/rubytify-ror/vendor/bundle/gems/rake-12.3.2/exe/rake RUBYARCHDIR\=/home/luis/ruby/rubytify-ror/vendor/bundle/extensions/x86_64-linux/2.6.0/mimemagic-0.3.10 RUBYLIBDIR\=/home/luis/ruby/rubytify-ror/vendor/bundle/extensions/x86_64-linux/2.6.0/mimemagic-0.3.10
+mkdir -p /home/luis/ruby/rubytify-ror/vendor/bundle/extensions/x86_64-linux/2.6.0/mimemagic-0.3.10/mimemagic
